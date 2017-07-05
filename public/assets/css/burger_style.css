@@ -44,3 +44,10 @@ li {
 	padding-left: 50px;
 	border: solid 1px navy;
 }
+
+#burgerClipArt {
+	height: 25%;
+	width: 25%;
+	position: relative;
+	left: 425px;
+}
