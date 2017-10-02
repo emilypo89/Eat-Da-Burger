@@ -19,8 +19,3 @@ This application uses HTML, CSS, Bootstrap, JavaScript, and mySQL.
 
 The npm packages used are Handlebars, Express, mysql, Body-Parser, and method-override
 
-
-
-## Example
-
-![burger](./public/assets/img/Burgers.mp4)
